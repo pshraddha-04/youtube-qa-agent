@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.chroma/
+transcript.txt
+mindmap.md
+*.egg-info/
+.venv/
+venv/
